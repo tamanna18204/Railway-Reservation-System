@@ -1,0 +1,9 @@
+.vscode/
+Git-2.56.0.4-64-bit.exe
+node_modules/
+railway-frontend/node_modules/
+railway-frontend/dist/
+railway-frontend/build/
+.env
+.env.*
+!.env.example
